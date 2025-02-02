@@ -73,7 +73,6 @@ public class Project {
 	    result += "\n   actualHours=" + actualHours;
 	    result += "\n   difficulty=" + difficulty;
 	    result += "\n   notes=" + notes;
-	    
 	    result += "\n   Materials:";
 	    
 	    for(Material material : materials) {
